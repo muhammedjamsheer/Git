@@ -1,0 +1,24 @@
+Steps for commiting your code.
+1) git stash
+
+2) git pull origin master
+
+3) git stash apply
+
+4) resolve conflicts, if any
+
+5) then git add <space> <file name>
+
+6) git commit -m "comment"
+
+7) git push origin <your name>
+
+```
+ 
+ ```
+If you face any conflicts resolve those conflicts and follow the steps
+1) git add <space> <conflict resolved file name>
+
+2) git commit -m "<commit message here - what you have done>"
+
+3) git push origin <your name>
