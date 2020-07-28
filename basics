@@ -33,3 +33,6 @@ ________________________________
 2.Enter a repository name in bitbucket with name of projectfile.
  a.git remote add origin [your_remote_repository_url]
  b.git push -u origin master
+ 
+ https://www.finalhints.com/how-to-add-existing-project-to-github-or-bitbucket/
+ https://support.atlassian.com/bitbucket-cloud/docs/push-code-to-bitbucket/
