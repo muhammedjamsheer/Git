@@ -34,5 +34,25 @@ ________________________________
  a.git remote add origin [your_remote_repository_url]
  b.git push -u origin master
  
+ 
+ 
+ >$ git remote show origin
+
+>$ git remote rm origin
+
+>$ git add .
+
+>$ git commit -m "First commit"
+
+>$ git remote add origin Copied_origin_url
+
+>$ git remote show origin
+
+>$ git push --force origin master
+ 
+ 
+ 
+ 
+ 
  https://www.finalhints.com/how-to-add-existing-project-to-github-or-bitbucket/
  https://support.atlassian.com/bitbucket-cloud/docs/push-code-to-bitbucket/
